@@ -70,7 +70,7 @@ model : LGMRegressor
 4) 데이콘 베스트 분석을 분석해보자!<br>
 
 
-### Reference
-~~~~
-https://dacon.io/competitions/official/235745/mysubmission
-~~~~
+## Reference
+```
+[1] 데이콘_주차수요 예측 ai 경진대회 : https://dacon.io/competitions/official/235745/mysubmission
+```
