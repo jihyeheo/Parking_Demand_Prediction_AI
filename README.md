@@ -49,7 +49,7 @@ columns 수가 464개가 되었다.<br>
 
 - Ridge regression <br>
 첫 제출 mae : 491.85<br>
-높은 제출 mae : 169.95(code)[]<br>
+높은 제출 mae : 169.95(code)[https://github.com/jihyeheo/Parking_Demand_Prediction_AI/blob/main/3rd_Week/Dataprocessingfinal_ridge.ipynb]<br>
 
 ## TRY 모델<br>
 OLS, Ridge regression, xgb, lgb<br>
