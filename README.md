@@ -70,6 +70,11 @@ model : LGMRegressor
 4) 데이콘 베스트 분석을 분석해보자!<br>
 
 
+## Study
+1) [Code_1](https://github.com/jihyeheo/Parking_Demand_Prediction_AI/blob/main/Study/Code_1.ipynb)<br>
+   : Private 1위 장어님 코드 공부 [[Link]](https://dacon.io/competitions/official/235745/codeshare/3015?page=1&dtype=recent)
+
+
 ## Reference
 ```
 [1] 데이콘_주차수요 예측 ai 경진대회 : https://dacon.io/competitions/official/235745/mysubmission
